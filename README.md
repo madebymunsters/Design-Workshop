@@ -27,6 +27,11 @@ Here is our final product:
 * [Open Sans](http://www.google.com/fonts/download?kit=3hvsV99qyKCBS55e5pvb3ltkqrIMaAZWyLYEoB48lSQ) from Google Fonts
 * [Gentium Book Basic](http://www.google.com/fonts/download?kit=EZXeZxZRzjR_ku9XkicXIwGOgN38Q8WzW_8dgyGhtAo)  from Google Fonts
 
+## Sublime Text 2 Plugins
+* [Package Control](https://sublime.wbond.net/)
+* [Foundation by Zurb Snippets](https://sublime.wbond.net/packages/Foundation%205%20Snippets)
+* [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate)
+
 ## Final Products
 * [Download the Start Mockup](https://github.com/madebymunsters/Design-Workshop/blob/master/Mockup/Blocium_Start.psd)
 * [Download the Final Mockup](https://github.com/madebymunsters/Design-Workshop/blob/master/Mockup/Blocium.psd)
